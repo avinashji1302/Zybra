@@ -24,18 +24,11 @@ git clone https://github.com/yourusername/task-manager-flutter.git
 cd task-manager-flutter
 
 2. Install dependencies
-Run the following command to install the required dependencies:
+Run the following command to install the required dependencies: flutter pub get
 
+3. Run the app : flutter run
 
-
-flutter pub get
-3. Run the app
-
-Now you can run the app using the following command:
-
-bash
-Copy
-flutter run
+Now you can run the app using the following command: flutter run
 
 # Usage
 
