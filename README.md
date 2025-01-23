@@ -45,6 +45,7 @@ Add a Task
 Tap the "Add Task" button.
 
 Enter the task Title in the input field.
+
 Enter the task description in the input field.
 
 Tap the "Save" button to add the task to the list.
