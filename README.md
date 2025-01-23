@@ -19,7 +19,7 @@ Follow these steps to get the app up and running:
 1. Clone the repository
 First, clone the repository to your local machine:
 
-git clone https://github.com/avinashji1302/Zybra.git)
+git clone https://github.com/avinashji1302/Zybra.git
 
 cd task-manager-flutter
 
