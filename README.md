@@ -21,7 +21,7 @@ First, clone the repository to your local machine:
 
 git clone https://github.com/avinashji1302/Zybra.git
 
-cd task-manager-flutter
+cd Zybra
 
 2. Install dependencies
 Run the following command to install the required dependencies: flutter pub get
