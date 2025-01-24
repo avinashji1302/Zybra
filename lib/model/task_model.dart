@@ -2,7 +2,7 @@ class TaskModel {
   final int? id;
   final String title;
   final String description;
-  final bool isComplete;  // Updated to isComplete
+  final bool isComplete; 
 
   TaskModel({
     this.id,
@@ -16,7 +16,7 @@ class TaskModel {
       "id": id,
       "title": title,
       "description": description,
-      "isComplete": isComplete ? 1 : 0,  // Updated to isComplete
+      "isComplete": isComplete ? 1 : 0, 
     };
   }
 
@@ -25,7 +25,7 @@ class TaskModel {
       id: map['id'],
       title: map['title'],
       description: map['description'],
-      isComplete: map['isComplete'] == 1,  // Updated to isComplete
+      isComplete: map['isComplete'] == 1,  
     );
   }
 }
